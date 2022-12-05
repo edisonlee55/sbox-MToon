@@ -8,7 +8,7 @@
   "HasAssets": true,
   "AssetsPath": "",
   "ResourcePaths": null,
-  "HasCode": false,
+  "HasCode": true,
   "CodePath": "/code/",
   "RootNamespace": null,
   "Metadata": {

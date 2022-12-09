@@ -23,6 +23,7 @@
     },
     "Summary": "Toon Shader with Global Illumination",
     "Description": "Toon Shader with Global Illumination. Ported to s\u0026box (Source 2).",
-    "Public": true
+    "Public": true,
+    "ReplaceTags": "shader toon anime"
   }
 }

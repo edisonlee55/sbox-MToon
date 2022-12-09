@@ -10,7 +10,6 @@
   "ResourcePaths": null,
   "HasCode": true,
   "CodePath": "/code/",
-  "RootNamespace": null,
   "Metadata": {
     "PrimaryAsset": "",
     "PhysicsMins": "-1,-1,-1",
@@ -18,7 +17,7 @@
     "RenderMins": "-1,-1,-1",
     "RenderMaxs": "-1,-1,-1",
     "Compiler": {
-      "RootNamespace": "Sandbox",
+      "RootNamespace": "edisonlee55.MToon",
       "DefineConstants": "SANDBOX;ADDON;DEBUG",
       "NoWarn": "1701;1702;1591;"
     },
